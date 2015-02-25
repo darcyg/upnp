@@ -1,7 +1,7 @@
 '''
 Created on 25.01.2015
 
-@author: mw
+@author: michael wuertenberger
 '''
 
 import unittest

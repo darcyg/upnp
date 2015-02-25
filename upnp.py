@@ -173,7 +173,7 @@ class UPNP():
         return upnpDevices
 
 if __name__ == "__main__":
-    # import sys;sys.argv = ['', 'Test.testName']
+    # import sys;sys.argv = ['', 'Test.testName'] 
     upnp=UPNP()
     upnpDevices = upnp.upnp_find_sevices()
     for host in upnpDevices:
